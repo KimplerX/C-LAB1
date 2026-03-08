@@ -1,0 +1,14 @@
+C:\Users\Kimpler\Desktop\C#LAB1\clab1\bin\Debug\net10.0\clab1.exe
+C:\Users\Kimpler\Desktop\C#LAB1\clab1\bin\Debug\net10.0\clab1.deps.json
+C:\Users\Kimpler\Desktop\C#LAB1\clab1\bin\Debug\net10.0\clab1.runtimeconfig.json
+C:\Users\Kimpler\Desktop\C#LAB1\clab1\bin\Debug\net10.0\clab1.dll
+C:\Users\Kimpler\Desktop\C#LAB1\clab1\bin\Debug\net10.0\clab1.pdb
+C:\Users\Kimpler\Desktop\C#LAB1\clab1\obj\Debug\net10.0\clab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimpler\Desktop\C#LAB1\clab1\obj\Debug\net10.0\clab1.AssemblyInfoInputs.cache
+C:\Users\Kimpler\Desktop\C#LAB1\clab1\obj\Debug\net10.0\clab1.AssemblyInfo.cs
+C:\Users\Kimpler\Desktop\C#LAB1\clab1\obj\Debug\net10.0\clab1.csproj.CoreCompileInputs.cache
+C:\Users\Kimpler\Desktop\C#LAB1\clab1\obj\Debug\net10.0\clab1.dll
+C:\Users\Kimpler\Desktop\C#LAB1\clab1\obj\Debug\net10.0\refint\clab1.dll
+C:\Users\Kimpler\Desktop\C#LAB1\clab1\obj\Debug\net10.0\clab1.pdb
+C:\Users\Kimpler\Desktop\C#LAB1\clab1\obj\Debug\net10.0\clab1.genruntimeconfig.cache
+C:\Users\Kimpler\Desktop\C#LAB1\clab1\obj\Debug\net10.0\ref\clab1.dll
