@@ -1,21 +1,21 @@
-﻿
-class Program
+﻿class Program
 {
     static void Main()
     {
-        Console.WriteLine("Введіть a");
+        Console.Write("Введіть a: ");
         double a = double.Parse(Console.ReadLine());
 
-        Console.WriteLine("Введіть n");
+        Console.Write("Введіть n: ");
         int n = int.Parse(Console.ReadLine());
 
         double total = 0;
+        double lnA = Math.Log(Math.Abs(a));
 
         for (int i = n; i >= 1; i--)
         {
-            double powerValue = Math.Abs(Math.Pow(a, i));
-            total += Math.Log(powerValue);
+            total += i * lnA;
         }
+
         Console.WriteLine($"Total = {total}");
     }
 }
