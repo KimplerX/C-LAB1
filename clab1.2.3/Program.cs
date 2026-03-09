@@ -13,9 +13,15 @@
         double b2 = Math.Pow(x3 - x2, 2) + Math.Pow(y3 - y2, 2);
         double c2 = Math.Pow(x1 - x3, 2) + Math.Pow(y1 - y3, 2);
 
-        if (a2 == b2 || b2 == c2 || a2 == c2)
+        double epsilon = 1e-9; 
+
+        if (Math.Abs(a2 - b2) < epsilon || 
+            Math.Abs(b2 - c2) < epsilon || 
+            Math.Abs(a2 - c2) < epsilon)
+        {
             Console.WriteLine("Трикутник рівнобедрений");
-        else
+        } else {
             Console.WriteLine("Трикутник НЕ рівнобедрений");
+        }
     }
 }
